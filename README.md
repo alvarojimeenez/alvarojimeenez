@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Alvaro</h1>
-<h3 align="center">Un estudiante de programación de España</h3>
+<h3 align="center">Un estudiante de programación en España</h3>
 
 - 🌱 Actualmente estoy aprendiendo **desarrollo de aplicaciones web**
 
