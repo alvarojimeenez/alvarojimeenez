@@ -21,6 +21,10 @@
 <div>
 <p align="left">
 <a href="https://www.linkedin.com/in/alvaro-jimenez-ponce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro jimenez ponce" height="30" width="40" /></a>
+<a href="https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=7437364229181049370" target="blank"><img align="center" src="https://img2.freepng.es/20180715/ljg/kisspng-logo-brand-infojobs-programmer-computer-icons-saved-by-the-bell-5b4b1413de09a5.5163473015316469959095.jpg" alt="alvaro jimenez ponce" height="40" width="40" /></a>
+<a href="https://www.instagram.com/alvaroo_jimeenez/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="alvaro jimenez ponce" height="40" width="40" /></a>
+
+
 </p>
 </div>
 
