@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, Soy Alvaro</h1>
 <h3 align="center">Un estudiante de programación en España</h3>
 
-- 🌱 Actualmente estoy aprendiendo **desarrollo de aplicaciones web**
+- 🌱 I’m currently in the process of becoming a **web developer**.
+- ✔️ I’m a network computer systems administrator.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
