@@ -33,7 +33,7 @@
 
 
 
-## Estadísticas de GitHub
+## Activity of the GitHub profile
 [![Alvaro Jimenez's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarojimeenez)](https://github.com/alvarojimeenez/github-readme-stats)
 
 
