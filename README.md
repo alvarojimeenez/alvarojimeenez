@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, Soy Alvaro</h1>
-<h3 align="center">Un estudiante de programación en España</h3>
 <img src="https://panamahitek.com/wp-content/uploads/2013/07/java-25-anos-696x298.jpg">
 
 - 🌱 I’m currently in the process of becoming a **web developer**.
