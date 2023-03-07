@@ -16,4 +16,4 @@
 ## Estadísticas de GitHub
 [![Alvaro Jimenez's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarojimeenez)](https://github.com/alvarojimeenez/github-readme-stats)
 
-
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/formandodev/count.svg" /> </p>
