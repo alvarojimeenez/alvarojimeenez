@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, Soy Alvaro</h1>
+<link rel="stylesheet" href="background.css">
 <img src="https://panamahitek.com/wp-content/uploads/2013/07/java-25-anos-696x298.jpg">
 
 - 🌱 I’m currently in the process of becoming a **web developer**.
