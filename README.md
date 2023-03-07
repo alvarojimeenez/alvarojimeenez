@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Alvaro</h1>
+<h1 align="center">Hi 👋, I'm Alvaro</h1>
 <link rel="stylesheet" href="background.css">
 <img src="imagen.jpg">
 
