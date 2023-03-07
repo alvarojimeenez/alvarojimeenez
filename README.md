@@ -3,7 +3,7 @@
 <img src="imagen.jpg">
 
 - 🌱 I’m currently in the process of becoming a **web developer**.
-- ✔️ I’m a network computer systems administrator.
+- ✔️ I’m a network computer **systems administrator**.
 
 
 
