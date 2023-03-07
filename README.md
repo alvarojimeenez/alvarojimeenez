@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, Soy Alvaro</h1>
 <link rel="stylesheet" href="background.css">
 <img src="imagen.jpg">
+
 - 🌱 I’m currently in the process of becoming a **web developer**.
 - ✔️ I’m a network computer systems administrator.
 
