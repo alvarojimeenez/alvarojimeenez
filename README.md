@@ -17,7 +17,7 @@
 </div>
 <br>
 
-## Connect with me
+### Connect with me
 <div>
 <p align="left">
 <a href="https://www.linkedin.com/in/alvaro-jimenez-ponce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro jimenez ponce" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 
 
 
-## Estadísticas de GitHub
+### Estadísticas de GitHub
 [![Alvaro Jimenez's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarojimeenez)](https://github.com/alvarojimeenez/github-readme-stats)
 
 
