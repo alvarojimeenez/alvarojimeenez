@@ -2,8 +2,8 @@
 <link rel="stylesheet" href="background.css">
 <img src="imagen.jpg">
 
-- 🌱 I’m currently in the process of becoming a **web developer** at [IES Jacarandá][enlace_instituto].
-- ✔️ I’m a network computer **systems administrator**.
+- 💻 I’m currently in the process of becoming a **web developer** at [IES Jacarandá][enlace_instituto].
+- 💻 I’m a network computer **systems administrator**.
 
 [enlace_instituto]: https://www.iesjacaranda.es/web/
 
