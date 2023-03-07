@@ -34,9 +34,8 @@
 
 
 ## Estadísticas de GitHub
-<div>
 [![Alvaro Jimenez's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarojimeenez)](https://github.com/alvarojimeenez/github-readme-stats)
-</div>
+
 
 
 <div align="center">
